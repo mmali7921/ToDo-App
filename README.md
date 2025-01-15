@@ -12,21 +12,22 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/<your-username>/todo-app.git
-
+```
 
 Navigate to the project folder:
 
-```bash `cd todo-app`
+```bash
+cd todo-app
 ```
 Install dependencies:
 
 ```bash
-npm install`
+npm install
 ```
 Start the app:
 
 ```bashn
-npm start`
+npm start
 ```
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
