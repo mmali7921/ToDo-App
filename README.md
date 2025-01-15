@@ -10,20 +10,24 @@ A simple To-Do List application built with React to help you manage your daily t
 ## How to Run
 Clone the repository:
 
-### `git clone https://github.com/<your-username>/todo-app.git`
+```bash
+git clone https://github.com/<your-username>/todo-app.git
+
 
 Navigate to the project folder:
 
-### `cd todo-app`
-
+```bash `cd todo-app`
+```
 Install dependencies:
 
-### `npm install`
-
+```bash
+npm install`
+```
 Start the app:
 
-### `npm start`
-
+```bashn
+npm start`
+```
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 ## Technologies Used
