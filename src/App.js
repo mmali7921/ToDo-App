@@ -38,7 +38,7 @@ function App() {
              
             }}
             value={obj.status} type="checkbox" name="" id="" />
-            <p>{obj.text}</p>
+            <p style={{ textDecoration: obj.status ? 'line-through' : 'none' }}>{obj.text}</p>
            </div>
            <div className="right">
             <i onClick={(e)=>{
